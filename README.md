@@ -2,14 +2,10 @@
 
 les fichiers COFRAC du DLCF
 
-## granulats
+## généralités
 
-chef UT : Jérome ALBARET
+Responsable Qualité : Alexandre CUER 
 
-## béton durçi
-
-chef UT : Bruno BOULET
-
-inititulé 1|intitulé 2
---|--
-1|2
+unité|granulats|béton durçi
+---|-|--
+chef UT|Jérome ALBARET|Bruno BOULET
