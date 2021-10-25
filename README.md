@@ -6,9 +6,9 @@ les fichiers COFRAC du DLCF
 
 Responsable Qualité : Alexandre CUER 
 
-unité|granulats|béton durçi
----|-|--
-chef UT|Jérome ALBARET|Bruno BOULET
+unité | béton durçi
+---|--
+chef UT | Bruno BOULET
 
 [R2.DLCF.P.001 - Annexe spécifique COFRAC](R2.DLCF.P.001_annexe_specifique_COFRAC.md)
 
