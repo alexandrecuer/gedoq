@@ -40,6 +40,8 @@ https://alexandrecuer.github.io/gedoq/cofrac.xml
 
 [écoute client](https://cerema.app.box.com/folder/127812808800)
 
+[évaluation des fournisseurs](https://cerema.app.box.com/folder/127878168176)
+
 ## documents spécifiques COFRAC
 
 [suivi des risques potentiels et conflits d'intérêt](https://cerema.app.box.com/file/794238570388)
