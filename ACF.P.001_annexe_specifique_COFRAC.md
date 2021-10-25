@@ -1,12 +1,10 @@
-Cerema / DTerCE / DLCF | ANNEXE SPECIFIQUE AU COFRAC | Réf. : R2.DLCF.P.001<br>Révision : 18<br>Du 29/12/2020
+Cerema / DTerCE / ACF | ANNEXE SPECIFIQUE AU COFRAC | Réf. : R2.ACF.P.001<br>Révision : 19<br>Du 25/10/2021
 --|--|--
 
 
 # Responsables UT COFRAC
 
 Béton durçi : Bruno BOULET
-
-Granulats : J ALBARET (par interim)
 
 # Portée d'accréditation
 
@@ -20,27 +18,13 @@ Essais sur le béton hydraulique et ses constituants
 - Béton durci  - Essai accéléré de migration des ions chlorures en régime non-stationnaire – Détermination du coefficient de diffusion apparent des ions chlorure– XP P 18-462
 - Béton durci : Essai de perméabilité au gaz – XP P 18-463
 
-## UT granulats
-Nature de l'essai | Texte de référence 
---|--
-Analyse granulométrique par tamisage | NF EN 933-1
-Mesure du coefficient d’aplatissement | NF EN 933-3
-Essai d’usure micro-Deval | NF EN 1097-1
-Essai Los-Angelès | NF EN 1097-2 § 5
-Essai au bleu de méthylène. Méthode de tâche | NF EN 933-9
-Préparation d’un échantillon pour essai  | NF EN 932-1 & 2
-
-
 # Liste des agents qualifiés par essais
 
-Ex domaine | Essai | B BOULET | P CHAGNEAU | M.CIPIERE | C DOMAS | J.ALBARET | L BLACHERE | J BLACHE
---|--|--|--|--|--|--|--|--
-3 | NF EN 12390-3 |RE<br>CE<br>SI | |CE |CE 
-3 | XP P 18-462 | RE<br>CE<br>SI | CE | CE
-3 | XP P 18-463 | RE<br>CE<br>SI | |CE | CE
-23 | NF EN 933-(1,3,9) ||||| SI | RE<br>CE<br>SI | RE (s)<br><br>SI
-23 | NF EN 1097-(1,2 § 5) |||||  SI | RE<br>CE<br>SI | RE (s)<br><br>SI
-23 | NF EN 932-(1,2) ||||| SI | RE<br>CE<br>SI | RE (s)<br><br>SI
+Ex domaine | Essai | B BOULET | M.CIPIERE | C DOMAS 
+--|--|--|--|--
+3 | NF EN 12390-3 |RE<br>CE<br>SI | CE |CE 
+3 | XP P 18-462 | RE<br>CE<br>SI | CE |
+3 | XP P 18-463 | RE<br>CE<br>SI | CE | CE
 
 RE : responsable d’essais
 
@@ -54,16 +38,6 @@ SI : signataire
 
 Un agent est habilité à signer les procès-verbaux d’essais à la condition qu’il soit responsable d’essai. Le maintien de cette habilitation sera revu annuellement lors de la revue qualité du programme 3.
 
-## Dispositions d’habilitation des signataires de l’UT granulats :
-
-Un agent est habilité à signer les procès-verbaux d’essais s’il remplit au moins l’un des deux critères suivants : 
-- être responsable d’essai 
-- être chef d’unité Cofrac connaissant les exigences du référentiel NE EN ISO 17025 et justifiant d’une implication dans le domaine des granulats.
-
-Le maintien de cette habilitation sera revu annuellement lors de la revue qualité du programme 23.
-
-Au DLCF, Le rôle du chef d’unité COFRAC qui n’est pas responsable d’essais revient à réaliser une revue documentaire sur l’essai et les différents formulaires remplis. La formalisation se traduit par une signature sur la minute.
-
 # Conflits d’intérêt
 
 4 types de conflits d’intérêts ont été dénombrés :
@@ -72,13 +46,13 @@ Au DLCF, Le rôle du chef d’unité COFRAC qui n’est pas responsable d’essa
 - type 3 : audit NFBPE d’une centrale qui emploie parmi son personnel un membre de la famille d’un auditeur NFBPE du Cerema Clermont-Ferrand
 - type 4 : audit NFBPE d’une centrale d’une usine de préfabrication, qui fournit un chantier sur lequel Cerema Clermont-Ferrand intervient comme contrôle extérieur
 
-Le DLCF tiendra à jour un tableau des possibles conflits d’intérêt et le mettra à jour chaque année
+L'ACF tiendra à jour un tableau des possibles conflits d’intérêt et le mettra à jour chaque année
 
 En cas de conflit avéré, l’UT compétente alerte le RQD qui propose une décision à l’attention de la direction du laboratoire.
 
 # Risques
 
-Outre les défauts de confidentialité, qui sont traités précédemment, les risques susceptibles d’affecter la qualité des prestations COFRAC du DLCF sont les suivants :
+Outre les défauts de confidentialité, qui sont traités précédemment, les risques susceptibles d’affecter la qualité des prestations COFRAC de l'ACF sont les suivants :
 - défaut de ressources humaines (départ(s)/mutation(s), défaillance de formation ou de mise à disposition de l’information)
 - utilisation matériel(s)/consommable(s) non conforme(s)
 - risque organisationnel général lié aux réorganisations éventuelles de l’établissement public dont fait partie le laboratoire
@@ -92,3 +66,5 @@ Lorsque des non conformités en lien avec le COFRAC sont détectées par le syst
 # Réclamations
 
 Les clients peuvent à tout moment de la vie d’une affaire déclencher une réclamation par courrier à l’adresse du directeur du laboratoire, en ayant au préalable pris l’attache du chef d’UT concerné. Lors du traitement de la réclamation, les conclusions sont approuvées par le RQD, indépendant des activités de production
+
+[lien vers logigramme](general/traitement_réclamations.pdf)
