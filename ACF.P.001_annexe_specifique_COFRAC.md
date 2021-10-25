@@ -1,4 +1,4 @@
-Cerema / DTerCE / DLCF | ANNEXE SPECIFIQUE AU COFRAC | Réf. : R2.DLCF.P.001<br>Révision : 19<br>Du 25/10/2021
+Cerema / DTerCE / ACF | ANNEXE SPECIFIQUE AU COFRAC | Réf. : R2.ACF.P.001<br>Révision : 19<br>Du 25/10/2021
 --|--|--
 
 
@@ -46,13 +46,13 @@ Un agent est habilité à signer les procès-verbaux d’essais à la condition 
 - type 3 : audit NFBPE d’une centrale qui emploie parmi son personnel un membre de la famille d’un auditeur NFBPE du Cerema Clermont-Ferrand
 - type 4 : audit NFBPE d’une centrale d’une usine de préfabrication, qui fournit un chantier sur lequel Cerema Clermont-Ferrand intervient comme contrôle extérieur
 
-Le DLCF tiendra à jour un tableau des possibles conflits d’intérêt et le mettra à jour chaque année
+L'ACF tiendra à jour un tableau des possibles conflits d’intérêt et le mettra à jour chaque année
 
 En cas de conflit avéré, l’UT compétente alerte le RQD qui propose une décision à l’attention de la direction du laboratoire.
 
 # Risques
 
-Outre les défauts de confidentialité, qui sont traités précédemment, les risques susceptibles d’affecter la qualité des prestations COFRAC du DLCF sont les suivants :
+Outre les défauts de confidentialité, qui sont traités précédemment, les risques susceptibles d’affecter la qualité des prestations COFRAC de l'ACF sont les suivants :
 - défaut de ressources humaines (départ(s)/mutation(s), défaillance de formation ou de mise à disposition de l’information)
 - utilisation matériel(s)/consommable(s) non conforme(s)
 - risque organisationnel général lié aux réorganisations éventuelles de l’établissement public dont fait partie le laboratoire

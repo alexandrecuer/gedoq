@@ -1,6 +1,6 @@
 # gedoq
 
-les fichiers COFRAC du DLCF
+les fichiers COFRAC du l'ACF
 
 ## généralités
 
@@ -10,7 +10,7 @@ unité | béton durçi
 ---|--
 chef UT | Bruno BOULET
 
-[R2.DLCF.P.001 - Annexe spécifique COFRAC](R2.DLCF.P.001_annexe_specifique_COFRAC.md)
+[ACF - Annexe spécifique COFRAC](ACF.P.001_annexe_specifique_COFRAC.md)
 
 # suivi des documents cofrac opposables
 
