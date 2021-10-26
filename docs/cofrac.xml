@@ -3,7 +3,7 @@
 <items>
 	<pro name="Suivi des documents COFRAC opposables" base="ROOT">
 	<port name="Document généraux de référence">
-	    <doc titre="Statuts du COFRAC" version="#11 - 10/20201" link='GEN-REF-01'></doc>
+	    <doc titre="Statuts du COFRAC" version="#11 - 10/2021" link='GEN-REF-01'></doc>
             <doc titre="Règlement intérieur du COFRAC" version="#06 - 10/2020" link='GEN-REF-02'></doc>
 	    <doc titre="Traçabilité des résultats de mesure – Politique du Cofrac et modalités d’évaluation" version="#00" link='GEN-REF-10'></doc>
             <doc titre="Règles générales pour la référence à l'accréditation et aux accords de reconnaissance internationaux" version="#08" link='GEN-REF-11'></doc>
