@@ -38,6 +38,12 @@ SI : signataire
 
 Un agent est habilité à signer les procès-verbaux d’essais à la condition qu’il soit responsable d’essai. Le maintien de cette habilitation sera revu annuellement lors de la revue qualité du programme 3.
 
+## maintien des compétences des agents en charge des opérations de métrologie
+
+Les compétences de chargé ou responsable d'essais en métrologie sont considérées comme maintenues par la réalisation d'au moins 10 essais par an.
+
+Si un responsable d'essais en métrologie ne réalise pas d'essais, ses compétences sont considérées comme maintenues par l'exploitation de la procédure MET002 pour la maîtrise des étalons de travail sur au moins un étalon tous les 2 ans.
+
 # Conflits d’intérêt
 
 4 types de conflits d’intérêts ont été dénombrés :
