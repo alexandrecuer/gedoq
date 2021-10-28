@@ -40,7 +40,7 @@ Un agent est habilité à signer les procès-verbaux d’essais à la condition 
 
 ## maintien des compétences des agents en charge des opérations de métrologie
 
-Les compétences de chargé ou responsable d'essais en métrologie sont considérées comme maintenues par la réalisation d'au moins 10 essais par an.
+Les compétences de chargé ou responsable d'essais en métrologie sont considérées comme maintenues par la réalisation d'au moins 10 essais par an dont au moins un pour chacune des grandeurs suivantes : température, pression, longueur et masse.
 
 Si un responsable d'essais en métrologie ne réalise pas d'essais, ses compétences sont considérées comme maintenues par l'exploitation de la procédure MET002 pour la maîtrise des étalons de travail sur au moins un étalon tous les 2 ans.
 
