@@ -39,6 +39,10 @@ nota : lorsqu'on ouvre un compte et qu'on s'abonne (fonction watch), on est info
 
 Conclusion : le système github répond à nos besoins
 
+# Veille normative
+
+L'examen des évolutions des méthodes et des documents opposables est réalsié au fil de l'eau et dans la revue annuelle on statue formellement sur l'adéquation de ces méthodes, y compris flexibilité
+
 # Liste des essais
 
 ## UT béton durçi :
