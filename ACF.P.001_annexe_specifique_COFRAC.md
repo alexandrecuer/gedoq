@@ -1,4 +1,4 @@
-Cerema / DTerCE / ACF | ANNEXE SPECIFIQUE AU COFRAC | Réf. : R2.ACF.P.001<br>Révision : 19<br>Du 25/10/2021
+Cerema / DTerCE / ACF | ANNEXE SPECIFIQUE AU COFRAC | Réf. : ACF.P.001<br>
 --|--|--
 
 
@@ -8,7 +8,36 @@ Béton durçi : Bruno BOULET
 
 # Portée d'accréditation
 
-Se référer à l'Annexe Technique de l'attestation d'accréditation (convention N°5678) Norme NF EN ISO/CEI 17025 v2005 ([Accréditation n°1-5702](https://tools.cofrac.fr/annexes/sect1/1-5702.pdf)). Pour l'ensemble des essais, la portée d'accréditation est FLEX01. (Toute évolution d’un référentiel est suivie grâce au document « Fiche d’évolution d’un référentiel »)
+Se référer à l'Annexe Technique de l'attestation d'accréditation (convention N°5678) Norme NF EN ISO/CEI 17025 v2005 ([Accréditation n°1-5702](https://tools.cofrac.fr/annexes/sect1/1-5702.pdf)). 
+
+Pour l'ensemble des essais, la portée d'accréditation est FLEX01. Toute évolution d’un référentiel est suivie grâce au document « Fiche d’évolution d’un référentiel »
+
+# Dispositions de gestion documentaire
+
+Le système documentaire propre à l'agence de Clermont-Ferrand est tenu à jour via le système github, qui est un service mondial d'hébergement et de gestion de développement de logiciels. 
+
+utilisateurs | droits
+--|--
+Bruno BOULET | administration = émission/validation/diffusion
+Alexandre CUER | administration = émission/validation/diffusion
+Tous| lecture
+
+## Evaluation du système github
+
+fonctionnalités | analyse
+--|--
+possibilité d'ouvrir un compte | tout agent avec une adresse mel
+possibilité de désigner des administrateurs | oui
+nommage des fichiers de manière unique | oui
+archivage et traçabilité des modifications| oui
+sécurité contre les possibles pertes de fichier | les administrateurs disposent de sauvegardes synchronisées sur leurs postes respectifs
+suivi des actions de maintenance | https://www.githubstatus.com/ 
+
+nota : lorsqu'on ouvre un compte et qu'on s'abonne (fonction watch), on est informé des modifications en temps réel par mel
+
+![image](https://user-images.githubusercontent.com/24553739/139417987-b491d679-f195-49b1-86ed-97d36f2355ac.png)
+
+Conclusion : le système github répond à nos besoins
 
 # Liste des essais
 
@@ -38,7 +67,7 @@ SI : signataire
 
 Un agent est habilité à signer les procès-verbaux d’essais à la condition qu’il soit responsable d’essai. Le maintien de cette habilitation sera revu annuellement lors de la revue qualité du programme 3.
 
-## maintien des compétences des agents en charge des opérations de métrologie
+## Maintien des compétences des agents en charge des opérations de métrologie
 
 Les compétences de chargé ou responsable d'essais en métrologie sont considérées comme maintenues par la réalisation d'au moins 10 essais par an dont au moins un pour chacune des grandeurs suivantes : température, pression, longueur et masse.
 
