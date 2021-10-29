@@ -41,7 +41,7 @@ Conclusion : le système github répond à nos besoins
 
 # Veille normative
 
-L'examen des évolutions des méthodes et des documents opposables est réalsié au fil de l'eau et dans la revue annuelle on statue formellement sur l'adéquation de ces méthodes, y compris flexibilité
+L'examen des évolutions des méthodes et des documents opposables est réalisé au fil de l'eau et la revue annuelle statue formellement sur l'adéquation de ces méthodes, y compris flexibilité
 
 # Liste des essais
 
