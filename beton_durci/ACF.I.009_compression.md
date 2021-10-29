@@ -96,7 +96,7 @@ Il en vérifie le contenu et la concordance des informations entre les différen
 Un exemplaire est envoyé au client. Un exemplaire est archivé dans le classeur « PV béton » situé dans le bureau E21. 
 Un exemplaire est archivé à l'intérieur de la feuille d'essai dans le bureau E21.
 
-## 2ème cas: Les éprouvettes prélevées par des personnes n'appartenant pas à au groupe IOAD sont apportées ou expédiées à ACF
+### 2ème cas: Les éprouvettes prélevées par des personnes n'appartenant pas à au groupe IOAD sont apportées ou expédiées à ACF
 
 Les dispositions sont identiques au 1er cas ci-dessus mais les étapes 1 et 2 ne sont pas sous la responsabilité de l'UT, et l’étape 6 est complétée par la vérification du diamètre moyen de chaque éprouvette.
 
