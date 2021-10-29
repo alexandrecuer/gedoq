@@ -27,8 +27,8 @@ Enfin, les normes applicables au matériel spécifique requis pour l'exécution 
 - Norme NF EN ISO/CEI 17025
 - Plan Qualité Type « Bétons et constituants – Essais physiques et mécaniques » du réseau des LPC
 - Procédure R2.P.002 « réalisation de prestations suivant le référentiel NF EN ISO/CEI 17025
-- Procédure S1.P003 « Qualification et Habilitation »
-- Instruction S1.I.001 « compagnonnage »
+- [Procédure S1.P003 « Qualification et Habilitation »](/ex_gedoq/Cerema_CE_S1_P_004_qualification_habilitation_rev5.pdf)
+- [Instruction S1.I.001 « compagnonnage »](/ex_gedoq/Cerema_CE_S1_I_001_compagnonnage_rev3.pdf)
 
 # Vocabulaire et abréviations
 
