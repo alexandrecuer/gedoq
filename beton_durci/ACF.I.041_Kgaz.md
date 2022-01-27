@@ -97,7 +97,7 @@ La pression absolue d’entrée P0  a été calculée à partir de la pression a
 - Le CE pèse les échantillons. Les masses sont notées sur les feuilles de paillasse.
 - Le CE mesure la perméabilité au gaz pour les corps d’épreuves :
   - Le corps d’épreuve est placé dans le perméabilimètre.
-  - La chambre à air assurant l’étanchéité du dispositif est gonflée à une pression comprise entre 8 et 10 bar.
+  - La chambre à air assurant l’étanchéité du dispositif est gonflée à une pression comprise entre 9 et 10 bar.
   - Une pression de 1,00±0,05 bar est appliquée à l’entrée de la cellule. Cette pression est enregistrée sur la feuille de paillasse.
   - Une phase de 30 minutes permet la stabilisation de la pression.
   - Le volume suivi est choisi de façon à ce que le temps de passage soit supérieur à 20 s. 2 à 3 mesures du temps de parcours sont effectuées et la moyenne est calculée. Les mesures et la moyenne sont enregistrées sur la feuille de paillasse.
@@ -115,7 +115,7 @@ La pression absolue d’entrée P0  a été calculée à partir de la pression a
 - Le CE pèse les échantillons. Les masses sont notées sur les feuilles de paillasse.
 - Le CE mesure la perméabilité au gaz pour les corps d’épreuves :
   - Le corps d’épreuve est placé dans le perméabilimètre.
-  - La chambre à air assurant l’étanchéité du dispositif est gonflée à une pression comprise entre 8 et 10 bar.
+  - La chambre à air assurant l’étanchéité du dispositif est gonflée à une pression comprise entre 9 et 10 bar.
   - Une pression de 1,00±0,05 bar est appliquée à l’entrée de la cellule. Cette pression est enregistrée sur la feuille de paillasse.
   - Une phase de 30 minutes permet la stabilisation de la pression.
   - Le volume suivi est choisi de façon à ce que le temps de passage soit supérieur à 20 s. 2 à 3 mesures du temps de parcours sont effectuées et la moyenne est calculée. Les mesures et la moyenne sont enregistrées sur la feuille de paillasse.
@@ -139,7 +139,7 @@ La pression absolue d’entrée P0  a été calculée à partir de la pression a
 - Le CE pèse les échantillons. Les masses sont notées sur les feuilles de paillasse.
 - Le CE mesure la perméabilité au gaz pour les corps d’épreuves :
   - Le corps d’épreuve est placé dans le perméabilimètre.
-  - La chambre à air assurant l’étanchéité du dispositif est gonflée à une pression comprise entre 8 et 10 bar.
+  - La chambre à air assurant l’étanchéité du dispositif est gonflée à une pression comprise entre 9 et 10 bar.
   - Une pression de 1,00±0,05 bar est appliquée à l’entrée de la cellule. Cette pression est enregistrée sur la feuille de paillasse.
   - Une phase 30 minutes permet la stabilisation de la pression.
   - Le volume suivi est choisi de façon à ce que le temps de passage soit supérieur à 20 s. 2 à 3 mesures du temps de parcours sont effectuées et la moyenne est calculée. Les mesures et la moyenne sont enregistrées sur la feuille de paillasse.
