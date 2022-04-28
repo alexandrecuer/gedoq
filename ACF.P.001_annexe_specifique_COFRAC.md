@@ -57,7 +57,7 @@ Ex domaine | Essai | B BOULET | M.CIPIERE | C DOMAS
 --|--|--|--|--
 3 | NF EN 12390-3 |RE<br>CE<br>SI | CE |CE 
 3 | XP P 18-462 | RE<br>CE<br>SI | CE |
-3 | XP P 18-463 | RE<br>CE<br>SI | CE | CE
+3 | XP P 18-463 | RE<br>CE<br>SI |  | CE
 
 RE : responsable d’essais
 
