@@ -37,16 +37,6 @@ Chef d'UT	| Responsable de l'Unité Technique COFRAC béton
 RE | Responsable d'Essais
 CE | Chargé d'essai
 
-# Fonctions / Responsabilités 
-
-Les dispositions des documents listés dans le paragraphe « Documents de références » sont appliquées.
-
-fonction / responsabilité | nom(s)
---|--
-Chef d'UT | Bruno BOULET
-Responsable(s) d'essai | Bruno BOULET
-Chargé(s) d'essai | Christophe DOMAS<br>Bruno BOULET<br>Mathieu CIPIERE
-Correspondant matériel | Bruno BOULET
 
 # Ordonnancement des essais
 
