@@ -67,6 +67,8 @@ SI : signataire
 
 (s) suppléant
 
+Correspondant matériel : Bruno BOULET
+
 ## Dispositions d’habilitation des signataires de l’UT béton durçi : 
 
 Un agent est habilité à signer les procès-verbaux d’essais à la condition qu’il soit responsable d’essai. Le maintien de cette habilitation sera revu annuellement lors de la revue qualité du programme 3.
