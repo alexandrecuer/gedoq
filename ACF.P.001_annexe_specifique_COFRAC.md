@@ -12,6 +12,14 @@ Se référer à l'Annexe Technique de l'attestation d'accréditation (convention
 
 Pour l'ensemble des essais, la portée d'accréditation est FLEX01. Toute évolution d’un référentiel est suivie grâce au document « Fiche d’évolution d’un référentiel »
 
+# Documents de référence
+
+Référentiel essais et mesures du Cerema : https://cerema.app.box.com/file/909928537464
+
+Réalisation des Essais et Mesures sous accréditation Cofrac ou dans le cadre de la certification au Cerema Centre-Est : https://cerema.app.box.com/file/1051174748316
+
+Procédure sur les conflits d'intérêts : https://cerema.app.box.com/file/1051165143024
+
 # Dispositions de gestion documentaire
 
 Le système documentaire propre à l'agence de Clermont-Ferrand est tenu à jour via le système github, qui est un service mondial d'hébergement et de gestion de développement de logiciels. 
