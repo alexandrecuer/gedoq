@@ -152,8 +152,8 @@ Les procès-verbaux , feuilles d'essai et feuilles d'accompagnement sont archiv�
 Les fichiers informatiques des procès-verbaux (non signés) sont archivés sous  BOX, en accès restreint, et pour une durée minimale de 10 ans.
 
 # Suivi des normes relatives aux essais accrédités
-Le suivi des normes d'essais sur béton frais et béton durci est assuré au niveau national par le Responsable de famille d’essai « matériau béton » du Cerema. 
-Celui-ci informe les chefs d'UT COFRAC « béton » en cas de révision de ces normes.
+Le suivi des normes d'essais sur béton frais et béton durci est assuré au niveau national par le Responsable de famille d’essai « matériau béton » du Cerema (ex-responsable sectoriel). 
+Celui-ci informe le responsable de domaine technique accrédité (ex-chef d'UT cOFRAC), en cas de révision de ces normes.
 De plus, une veille normative est mise en place sur COBAZ, avec un système d’alerte par courriel.
 
 # Gestion de la flexibilité de type FLEX01
