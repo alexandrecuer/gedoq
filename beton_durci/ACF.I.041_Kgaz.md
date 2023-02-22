@@ -12,8 +12,8 @@ Cette instruction concerne l'essai de perméabilité aux gaz sur béton durci.
 
 # Documents de référence
 - Norme NF EN ISO/CEI 17025
-- Plan Qualité Type « Bétons et constituants – Essais physiques et mécaniques » du réseau des LPC.
-- Procédure R2.P.002 « réalisation de prestations suivant le référentiel NF EN ISO/CEI 17025
+- Coesion - référentiel essais et mesures
+- Procédure CE-PROD-PROC-002: Réalisation des Essais et Mesures sous accréditation COFRAC ou dans le cadre de la certification au Cerema centre-est
 - [Procédure S1.P003 « Qualification et Habilitation »](/ex_gedoq/Cerema_CE_S1_P_004_qualification_habilitation_rev5.pdf)
 - [Instruction S1.I.001 « compagnonnage »](/ex_gedoq/Cerema_CE_S1_I_001_compagnonnage_rev3.pdf)
 
@@ -180,13 +180,14 @@ L’incertitude d’essai est de 30 % (guide approche performantielle LCPC 2010
 
 Référence | Désignation | Périodicité vérification
 --|--|--
-TGGV 080 | Chronomètre | 1 an
-COA 056 | Thermomètre numérique | 1 an
+TGGV 003 | Balance | 1 an
+TGGV 081 | Chronomètre | 1 an
+COA 059 | Thermomètre numérique | 1 an
 COA 053 | Vacuomètre | 1 an
 COA 045 | Pied à coulisse | 1 an
 COA 055 | Pied à coulisse | 1 an
 COA 011 | Etuve | 2 ans
-COA 012 | Etuve | 2 ans
+ACR 177 | Etuve | 2 ans
 COA 038 | Piscines de conservation | 2 ans
 SPOA 115 | Manomètre du CEMBUREAU | 1 an
 SPOA 115 | Etanchéité chambre à air du CEMBUREAU | 3 mois ou avant utilisation
@@ -199,8 +200,8 @@ La validation initiale de la feuille de calcul a été réalisés le 8/6/2018
 Les feuilles de calcul et les procès-verbaux scannés sont archivés sous  BOX, pour une durée minimale de 10 ans.
 
 # Suivi des normes relatives aux essais accrédités
-Le suivi des normes d'essais sur béton frais et béton durci est assuré au niveau national par le correspondant sectoriel « essais béton » du Cerema. 
-Celui-ci informe les chefs d'UT COFRAC « béton » en cas de révision de ces normes.
+Le suivi des normes d'essais sur béton frais et béton durci est assuré au niveau national par le Responsable de la famille d'essai "matériau béton" du Cerema (ex-correspondant sectoriel). 
+Celui-ci informe le responsable de domaine technique accrédité (ex-chef d'UT COFRAC), en cas de révision de ces normes.
 
 # Gestion de la flexibilité de type FLEX01
 En cas de révision de norme d'essai, la « fiche d'évolution d'un référentiel » référencée R2.DLCF.DM.005 est renseignée par le RE.

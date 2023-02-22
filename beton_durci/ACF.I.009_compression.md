@@ -25,8 +25,8 @@ Enfin, les normes applicables au matériel spécifique requis pour l'exécution 
 
 # Documents de références
 - Norme NF EN ISO/CEI 17025
-- Plan Qualité Type « Bétons et constituants – Essais physiques et mécaniques » du réseau des LPC
-- Procédure R2.P.002 « réalisation de prestations suivant le référentiel NF EN ISO/CEI 17025
+- Coesion - référentiel essais et mesures
+- Procédure CE-PROD-PROC-002: Réalisation des Essais et Mesures sous accréditation COFRAC ou dans le cadre de la certification au Cerema centre-est
 - [Procédure S1.P003 « Qualification et Habilitation »](/ex_gedoq/Cerema_CE_S1_P_004_qualification_habilitation_rev5.pdf)
 - [Instruction S1.I.001 « compagnonnage »](/ex_gedoq/Cerema_CE_S1_I_001_compagnonnage_rev3.pdf)
 
@@ -129,7 +129,7 @@ Au moins une fois par semaine et à chaque jour d'essai, la température de l'ea
 Référence | Désignation | Périodicité vérification
 --|--|--
 COA 015 | Presse Walter et Bai 3000 kN |1 an
-COA 056 | Thermomètre numérique | 1 an
+COA 059 | Thermomètre numérique | 1 an
 COA 035 | Moules Readyform | 3 ans
 COA 038 | Piscines de conservation | 2 ans
 COA 041 | Rectifieuse controlab | 1 an
@@ -152,8 +152,8 @@ Les procès-verbaux , feuilles d'essai et feuilles d'accompagnement sont archiv�
 Les fichiers informatiques des procès-verbaux (non signés) sont archivés sous  BOX, en accès restreint, et pour une durée minimale de 10 ans.
 
 # Suivi des normes relatives aux essais accrédités
-Le suivi des normes d'essais sur béton frais et béton durci est assuré au niveau national par le Responsable de famille d’essai « matériau béton » du Cerema. 
-Celui-ci informe les chefs d'UT COFRAC « béton » en cas de révision de ces normes.
+Le suivi des normes d'essais sur béton frais et béton durci est assuré au niveau national par le Responsable de famille d’essai « matériau béton » du Cerema (ex-responsable sectoriel). 
+Celui-ci informe le responsable de domaine technique accrédité (ex-chef d'UT cOFRAC), en cas de révision de ces normes.
 De plus, une veille normative est mise en place sur COBAZ, avec un système d’alerte par courriel.
 
 # Gestion de la flexibilité de type FLEX01
