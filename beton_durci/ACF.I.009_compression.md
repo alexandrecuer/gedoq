@@ -25,8 +25,8 @@ Enfin, les normes applicables au matériel spécifique requis pour l'exécution 
 
 # Documents de références
 - Norme NF EN ISO/CEI 17025
-- Plan Qualité Type « Bétons et constituants – Essais physiques et mécaniques » du réseau des LPC
-- Procédure R2.P.002 « réalisation de prestations suivant le référentiel NF EN ISO/CEI 17025
+- Coesion - référentiel essais et mesures
+- Procédure CE-PROD-PROC-002: Réalisation des Essais et Mesures sous accréditation COFRAC ou dans le cadre de la certification au Cerema centre-est
 - [Procédure S1.P003 « Qualification et Habilitation »](/ex_gedoq/Cerema_CE_S1_P_004_qualification_habilitation_rev5.pdf)
 - [Instruction S1.I.001 « compagnonnage »](/ex_gedoq/Cerema_CE_S1_I_001_compagnonnage_rev3.pdf)
 
@@ -129,7 +129,7 @@ Au moins une fois par semaine et à chaque jour d'essai, la température de l'ea
 Référence | Désignation | Périodicité vérification
 --|--|--
 COA 015 | Presse Walter et Bai 3000 kN |1 an
-COA 056 | Thermomètre numérique | 1 an
+COA 059 | Thermomètre numérique | 1 an
 COA 035 | Moules Readyform | 3 ans
 COA 038 | Piscines de conservation | 2 ans
 COA 041 | Rectifieuse controlab | 1 an
