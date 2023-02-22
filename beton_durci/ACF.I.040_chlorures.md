@@ -17,8 +17,8 @@ L’essai est réalisé pour des corps d’épreuve de diamètres compris entre 
 
 - Norme XP P 18-462 : Essai accéléré de migration des ions chlorure en régime non stationnaire
 - Norme NF EN ISO/CEI 17025
-- Plan Qualité Type « Bétons et constituants – Essais physiques et mécaniques » du réseau des LPC.
-- Procédure R2.P.002 « réalisation de prestations suivant le référentiel NF EN ISO/CEI 17025
+- Coesion: référentiel qualité essais et mesures
+- Procédure CE-PROD-PROC-002: Réalisation des Essais et Mesures sous accréditation COFRAC ou dans le cadre de la certification au Cerema Centre-Est
 - [Procédure S1.P003 « Qualification et Habilitation »](/ex_gedoq/Cerema_CE_S1_P_004_qualification_habilitation_rev5.pdf)
 - [Instruction S1.I.001 « compagnonnage »](/ex_gedoq/Cerema_CE_S1_I_001_compagnonnage_rev3.pdf)
 
@@ -101,7 +101,7 @@ La solution aval est préparée dans un récipient de 20 l. Celui-ci est complé
 - Le CE complète le dossier-essai.
 
 Étape 6 : Mesure des températures et vérification des tensions :
-- Toutes les 24 heures d’essai, le CE relève les températures des solutions dans les compartiments. De plus, il vérifie et ajuste les tensions au bornes des échantillons si nécessaire.
+- Toutes les 24 heures d’essai, le CE relève les températures des solutions dans les compartiments, les tensions au bornes des corps d'épreuves, et la température de la salle d'essai. Il ajuste les tensions au bornes des échantillons si nécessaire.
 - Le CE remplit la feuille de paillasse et complète le dossier-essai
 
 Étape 7 : Mesure de la profondeur de pénétration :
@@ -150,7 +150,8 @@ L’essai étant destructif, les corps d’épreuves ne sont pas conservés, sau
 
 # Incertitude d'essai
 
-L’incertitude d’essai est de 15% (guide approche performantielle  - LCPC 2010)
+L’incertitude globale élargie (k=2)de l'essai, a été estimée en 2022: U = ± 0,33.Drcm.10-12 m²/s
+L'opportunité de révision de l'estimation de cette incertitude sera évaluée chaque année, lors de la revue qualité annuelle d'essais.
 
 # Locaux, Matériels et Logiciels
 
@@ -161,15 +162,15 @@ Salle d’essai (E23)
 Référence | Désignation | Périodicité vérification
 --|--|--
 COA 054 | Enregistreur de tension SEFRAM 8440 | 3 ans
-COA 056 | Thermomètre numérique | 1 an
+COA 059 | Thermomètre numérique | 1 an
 COA 053 | Vacuomètre | 1 an
 COA 045 | Pied à coulisse base 500 mm | 1 an
 COA 055 | Pied à coulisse base 150 mm | 1 an
 COA 038 | Piscines de conservation | 2 ans
-COA 006, 009 et 032 | Balances | 1 an
+COA 006, TGGV 003 et ACR 017 | Balances | 1 an
 
 ## Logiciel
-Le procès-verbal d'essai est édité à partir de la feuille de calcul « essai DAPP », onglet « PV ». 
+Le procès-verbal d'essai est édité à partir de la feuille de calcul « essai Drcm », onglet « PV ». 
 La validation initiale de la feuille de calcul a été réalisée le 6/7/18.
 
 # Archivage
@@ -177,8 +178,8 @@ La validation initiale de la feuille de calcul a été réalisée le 6/7/18.
 Les feuilles de calcul et les procès-verbaux scannés sont archivés sous  BOX, pour une durée minimale de 10 ans.
 
 # Suivi des normes relatives aux essais accrédités
-Le suivi des normes d'essais sur béton frais et béton durci est assuré au niveau national par le correspondant sectoriel « essais béton » du réseau des LPC. 
-Celui-ci informe les chefs d'UT COFRAC « béton » en cas de révision de ces normes.
+Le suivi des normes d'essais sur béton frais et béton durci est assuré au niveau national par le Responsable de la famille d'essai "matériau béton" (ex-correspondant sectoriel). 
+Celui-ci informe le responsable de domaine technique d'accréditation (ex-chef d'UT COFRAC) en cas de révision de ces normes.
 
 # Gestion de la flexibilité de type FLEX01
 En cas de révision de norme d'essai, la « fiche d'évolution d'un référentiel » référencée R2.DLCF.DM.005 est renseignée par le RE.
