@@ -180,7 +180,7 @@ L’incertitude d’essai est de 30 % (guide approche performantielle LCPC 2010
 
 Référence | Désignation | Périodicité vérification
 --|--|--
-ACR 017 | Balance | 1 an
+TGGV 003 | Balance | 1 an
 TGGV 081 | Chronomètre | 1 an
 COA 059 | Thermomètre numérique | 1 an
 COA 053 | Vacuomètre | 1 an
@@ -200,8 +200,8 @@ La validation initiale de la feuille de calcul a été réalisés le 8/6/2018
 Les feuilles de calcul et les procès-verbaux scannés sont archivés sous  BOX, pour une durée minimale de 10 ans.
 
 # Suivi des normes relatives aux essais accrédités
-Le suivi des normes d'essais sur béton frais et béton durci est assuré au niveau national par le correspondant sectoriel « essais béton » du Cerema. 
-Celui-ci informe les chefs d'UT COFRAC « béton » en cas de révision de ces normes.
+Le suivi des normes d'essais sur béton frais et béton durci est assuré au niveau national par le Responsable de la famille d'essai "matériau béton" du Cerema (ex-correspondant sectoriel). 
+Celui-ci informe le responsable de domaine technique accrédité (ex-chef d'UT COFRAC), en cas de révision de ces normes.
 
 # Gestion de la flexibilité de type FLEX01
 En cas de révision de norme d'essai, la « fiche d'évolution d'un référentiel » référencée R2.DLCF.DM.005 est renseignée par le RE.
