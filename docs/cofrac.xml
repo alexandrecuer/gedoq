@@ -9,21 +9,21 @@
             <doc titre="Règles générales pour la référence à l'accréditation et aux accords de reconnaissance internationaux" version="#09" link='GEN-REF-11'></doc>
 	</port>
         <port name="Procédures">
-	    <doc titre="Suspensions, Résiliation et Retraits" version="#06" link='GEN-PROC-03'></doc>
-            <doc titre="Traitement et gestion des appels" version="#06" link='GEN-PROC-04'></doc>
+	    <doc titre="Suspensions, Résiliation et Retraits" version="#07" link='GEN-PROC-03'></doc>
+            <doc titre="Traitement et gestion des appels" version="#07" link='GEN-PROC-04'></doc>
             <doc titre="Traitement et gestion des plaintes" version="#09" link='GEN-PROC-05'></doc>
-            <doc titre="Traitement de la confidentialité" version="#05" link='GEN-PROC-08'></doc>
+            <doc titre="Traitement de la confidentialité" version="#06" link='GEN-PROC-08'></doc>
             <doc titre="Récusation" version="#07" link='GEN-PROC-09'></doc>
-            <doc titre="Situations à signaler au Cofrac et transfert d'accréditation" version="#03" link='GEN-PROC-20'></doc>
+            <doc titre="Situations à signaler au Cofrac et transfert d'accréditation" version="#04" link='GEN-PROC-20'></doc>
 	</port>
         <port name="LABREF">
             <doc titre="Réglement particulier de la section Laboratoires" version="#11" link='LAB-REF-00'></doc>
             <doc titre="Exigences pour l'accréditation des laboratoires selon la norme NF EN ISO/IEC 17025:2017" version="#14" link='LAB-REF-02-(2017)'></doc>
 	    <doc titre="Recommandations pour la mise en œuvre de la norme NF EN ISO/IEC 17025 en vue de l’accréditation des Laboratoires" version="#01" link="LAB-GTA-86"></doc>
             <doc titre="Règlement de fonctionnement des commissions" version="#08" link='LAB-REF-03'></doc>
-            <doc titre="Règlement d'accréditation" version=" #14" link='LAB-REF-05'></doc>
-            <doc titre="Frais d'accréditation" version="#16" link='LAB-REF-06'></doc>
-            <doc titre="Tarifs" version="#19" link='LAB-REF-07'></doc>
+            <doc titre="Règlement d'accréditation" version=" #15" link='LAB-REF-05'></doc>
+            <doc titre="Frais d'accréditation" version="#17" link='LAB-REF-06'></doc>
+            <doc titre="Tarifs" version="#20" link='LAB-REF-07'></doc>
             <doc titre="Expression et évaluation des portées d'accréditation" version="#05 - 12/2018 " link='LAB-REF-08'></doc>
         </port>
 	</pro>
