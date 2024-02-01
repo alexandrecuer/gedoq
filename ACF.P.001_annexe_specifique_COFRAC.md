@@ -57,7 +57,6 @@ L'examen des évolutions des méthodes et des documents opposables est réalisé
 Essais sur le béton hydraulique et ses constituants
 - [Béton durci – Résistance à la compression – Éprouvette mise sous charge croissante jusqu'à rupture (Mpa) – NF EN 12390-3](beton_durci/ACF.I.009_compression.md)
 - [Béton durci  - Essai accéléré de migration des ions chlorures en régime non-stationnaire – Détermination du coefficient de diffusion apparent des ions chlorure– XP P 18-462](beton_durci/ACF.I.040_chlorures.md)
-- [Béton durci : Essai de perméabilité au gaz – XP P 18-463](beton_durci/ACF.I.041_Kgaz.md)
 
 # Liste des agents qualifiés par essais
 
@@ -65,7 +64,7 @@ Ex domaine | Essai | B BOULET | M.CIPIERE | C DOMAS
 --|--|--|--|--
 3 | NF EN 12390-3 |RE<br>CE<br>SI | CE |CE 
 3 | XP P 18-462 | RE<br>CE<br>SI | CE |
-3 | XP P 18-463 | RE<br>CE<br>SI |  | CE
+
 
 RE : responsable d’essais
 
