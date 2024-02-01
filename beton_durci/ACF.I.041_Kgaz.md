@@ -2,16 +2,13 @@ Cerema / DTerCE / ACF | Instruction relative à l'essai de perméabilité aux ga
 --|--|--
 
 # Objet
-La présente instruction porte sur la définition des modalités de réalisation de l'essai de perméabilité aux gaz sur béton dans le cadre de l'accréditation COFRAC.
+La présente instruction porte sur la définition des modalités de réalisation de l'essai de perméabilité aux gaz sur béton.
 Les corps d'épreuves concernés sont des cylindres découpés dans des éprouvettes ou carottage, dont le diamètre est compris entre 100 et 150 mm et l’épaisseur de 50 ±1 mm .
 
 # Domaine d'application 
-La présente instruction s'applique à l'Unité Technique COFRAC « Béton ». 
-Cette UT est intégrée au groupe « Infrastructures et Ouvrages d’Art Durables » de l’agence de Clermont-Ferrand.
-Cette instruction concerne l'essai de perméabilité aux gaz sur béton durci.
+Cette instruction concerne l'essai de perméabilité aux gaz sur béton durci, réalisé au sein du groupe "Infrastructures et Ouvrages d'Art Durables (IOAD)" de l'agence de Clermont-Ferrand.
 
 # Documents de référence
-- Norme NF EN ISO/CEI 17025
 - Coesion - référentiel essais et mesures
 - Procédure CE-PROD-PROC-002: Réalisation des Essais et Mesures sous accréditation COFRAC ou dans le cadre de la certification au Cerema centre-est
 - [Procédure S1.P003 « Qualification et Habilitation »](/ex_gedoq/Cerema_CE_S1_P_004_qualification_habilitation_rev5.pdf)
@@ -31,9 +28,7 @@ De plus, les normes applicables pour réaliser cet essai sont:
 acronyme | signification
 --|--
 ACF	| Agence de Clermont-Ferrand
-UT | Unité Technique COFRAC « Béton »
 Groupe IOAD	|	Groupe « Infrastructures et Ouvrages d’Art Durables »
-Chef d'UT	| Responsable de l'Unité Technique COFRAC béton
 RE | Responsable d'Essais
 CE | Chargé d'essai
 
@@ -169,7 +164,7 @@ Les compétences de RE et de CE sont considérées maintenues par la réalisatio
 Les corps d’épreuves sont conservés au minimum 90 jours après la mesure de perméabilité à l’état sec, sauf demande spécifique du client.
 
 # Incertitude d'essai
-L’incertitude d’essai est de 30 % (guide approche performantielle LCPC 2010)
+L’incertitude d’essai a été évaluée en août 2022. Son calcul fait l'objet d'un document séparé, disponible sous l'arborescence "gedoq/beton_durci/incertitudes"
 
 # Locaux, Matériels et Logiciels
 
@@ -181,8 +176,8 @@ L’incertitude d’essai est de 30 % (guide approche performantielle LCPC 2010
 Référence | Désignation | Périodicité vérification
 --|--|--
 TGGV 003 | Balance | 1 an
-TGGV 081 | Chronomètre | 1 an
-COA 059 | Thermomètre numérique | 1 an
+TGGV 080 ou 081 | Chronomètre | 1 an en décalé
+COA 064 | Thermomètre numérique | 1 an
 COA 053 | Vacuomètre | 1 an
 COA 045 | Pied à coulisse | 1 an
 COA 055 | Pied à coulisse | 1 an
@@ -203,15 +198,6 @@ Les feuilles de calcul et les procès-verbaux scannés sont archivés sous  BOX,
 Le suivi des normes d'essais sur béton frais et béton durci est assuré au niveau national par le Responsable de la famille d'essai "matériau béton" du Cerema (ex-correspondant sectoriel). 
 Celui-ci informe le responsable de domaine technique accrédité (ex-chef d'UT COFRAC), en cas de révision de ces normes.
 
-# Gestion de la flexibilité de type FLEX01
-En cas de révision de norme d'essai, la « fiche d'évolution d'un référentiel » référencée R2.DLCF.DM.005 est renseignée par le RE.
-
-# Documents d'enregistrement
-
-Identification | Modèle / version | Stockage | Accessibilité | Conservation | Élimination
---|--|--|--|--|--
-[Annexe Spécifique Cofrac en cours de validité](/ACF.P.001_annexe_specifique_COFRAC.md) | version en cours | github | Agents IOAD programme 3 | 5 ans | RQD
-Feuille de calcul « essai KGAZ » |En cours de validité | BOX | Agents IOAD programme 3 | 10 ans | Chef d'UT
 
 
 
