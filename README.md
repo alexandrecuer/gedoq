@@ -23,8 +23,6 @@ https://alexandrecuer.github.io/gedoq/cofrac.xml
 
 [site efolio du cofrac](https://efolio.cofrac.fr/)
 
-# [COLIBRI : enquêtes satisfaction](http://ceremacf.herokuapp.com)
-
 # [AQTION : gestion des non-conformités](https://aqtion.cerema.fr) 
 
 # documents sur Box
