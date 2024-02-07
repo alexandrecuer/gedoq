@@ -36,7 +36,7 @@ acronyme | signification
 ACF	| Agence de Clermont-Ferrand
 UT | Unité Technique COFRAC « Béton »
 Groupe IOAD	|	Groupe « Infrastructures et Ouvrages d’Art Durables »
-Chef d'UT	| Responsable de l'Unité Technique COFRAC béton
+Chef d'UT	| Responsable de domaine technique d'accréditation, Responsable de l'Unité Technique COFRAC béton
 RE | Responsable d'Essais
 CE | Chargé d'essai
 
@@ -162,7 +162,7 @@ Salle d’essai (E23)
 Référence | Désignation | Périodicité vérification
 --|--|--
 COA 054 | Enregistreur de tension SEFRAM 8440 | 3 ans
-COA 059 | Thermomètre numérique | 1 an
+COA 060 | Thermomètre numérique | 1 an
 COA 053 | Vacuomètre | 1 an
 COA 045 | Pied à coulisse base 500 mm | 1 an
 COA 055 | Pied à coulisse base 150 mm | 1 an
@@ -171,11 +171,11 @@ COA 006, TGGV 003 et ACR 017 | Balances | 1 an
 
 ## Logiciel
 Le procès-verbal d'essai est édité à partir de la feuille de calcul « essai Drcm », onglet « PV ». 
-La validation initiale de la feuille de calcul a été réalisée le 6/7/18.
+La validation initiale de la feuille de calcul actuelle, a été réalisée le 28/2/2023.
 
 # Archivage
 
-Les feuilles de calcul et les procès-verbaux scannés sont archivés sous  BOX, pour une durée minimale de 10 ans.
+Les feuilles de calcul et les procès-verbaux scannés sont archivés sous BOX, pour une durée minimale de 10 ans.
 
 # Suivi des normes relatives aux essais accrédités
 Le suivi des normes d'essais sur béton frais et béton durci est assuré au niveau national par le Responsable de la famille d'essai "matériau béton" (ex-correspondant sectoriel). 
