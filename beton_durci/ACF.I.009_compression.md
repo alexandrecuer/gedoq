@@ -37,7 +37,7 @@ acronyme | signification
 ACF	| Agence de Clermont-Ferrand
 UT | Unité Technique COFRAC « Béton »
 Groupe IOAD	|	Groupe « Infrastructures et Ouvrages d’Art Durables »
-Chef d'UT	| Responsable de l'Unité Technique COFRAC béton
+Chef d'UT	| Responsable de domaine technique d'accréditation, Responsable de l'Unité Technique COFRAC béton
 RE | Responsable d'Essais
 CE | Chargé d'essai
 
@@ -129,7 +129,7 @@ Au moins une fois par semaine et à chaque jour d'essai, la température de l'ea
 Référence | Désignation | Périodicité vérification
 --|--|--
 COA 015 | Presse Walter et Bai 3000 kN |1 an
-COA 059 | Thermomètre numérique | 1 an
+COA 060 | Thermomètre numérique | 1 an
 COA 035 | Moules Readyform | 3 ans
 COA 038 | Piscines de conservation | 2 ans
 COA 041 | Rectifieuse controlab | 1 an
