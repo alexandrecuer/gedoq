@@ -129,7 +129,7 @@ Au moins une fois par semaine et à chaque jour d'essai, la température de l'ea
 Référence | Désignation | Périodicité vérification
 --|--|--
 COA 015 | Presse Walter et Bai 3000 kN |1 an
-COA 060 | Thermomètre numérique | 1 an
+COA 064 | Thermomètre numérique | 1 an
 COA 035 | Moules Readyform | 3 ans
 COA 038 | Piscines de conservation | 2 ans
 COA 041 | Rectifieuse controlab | 1 an
