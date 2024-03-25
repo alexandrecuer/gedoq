@@ -162,10 +162,10 @@ Salle d’essai (E23)
 Référence | Désignation | Périodicité vérification
 --|--|--
 COA 054 | Enregistreur de tension SEFRAM 8440 | 3 ans
-COA 060 | Thermomètre numérique | 1 an
+COA 064 | Thermomètre numérique | 1 an
 COA 053 | Vacuomètre | 1 an
 COA 045 | Pied à coulisse base 500 mm | 1 an
-COA 055 | Pied à coulisse base 150 mm | 1 an
+COA 037 | Pied à coulisse base 250 mm | 1 an
 COA 038 | Piscines de conservation | 2 ans
 COA 006, TGGV 003 et ACR 017 | Balances | 1 an
 

@@ -86,6 +86,10 @@ Les compétences de chargé ou responsable d'essais en métrologie sont considé
 
 Si un responsable d'essais en métrologie ne réalise pas d'essais, ses compétences sont considérées comme maintenues par l'exploitation de la procédure MET002 pour la maîtrise des étalons de travail sur au moins un étalon tous les 2 ans.
 
+# organisation métrologique
+
+La planification métrologique priorise les matériels impliqués dans des essais sous accréditation COFRAC
+
 # Conflits d’intérêt
 
 4 types de conflits d’intérêts ont été dénombrés :
