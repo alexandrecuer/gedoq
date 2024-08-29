@@ -88,7 +88,7 @@ Si un responsable d'essais en métrologie ne réalise pas d'essais, ses compéte
 
 # organisation métrologique
 
-La planification métrologique priorise les matériels impliqués dans des essais sous accréditation COFRAC
+La planification métrologique priorise les matériels impliqués dans des essais sous accréditation COFRAC. Pour les matériels où la périodicité est dépassée de plus d'un mois, le technicien métrologue appose une étiquette "NE PLUS UTILISER : périodicité de contrôle dépassée".
 
 # Conflits d’intérêt
 
