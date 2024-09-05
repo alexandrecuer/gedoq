@@ -57,10 +57,6 @@ https://alexandrecuer.github.io/gedoq/cofrac.xml
 
 [CR situations d'urgence](https://cerema.app.box.com/folder/128177787247)
 
-# documents encore sur serveur rhone
-
-[programmation des exercices](file://rhone/SUPPORTS_RESSOURCES/80.Hygiene_securite_environnement/60.Incendies_Secours/Mise_en_Situation)
-
 
 
 
