@@ -221,3 +221,10 @@ Participants :
 ## Evaluation de la pertinence de révision des incertitudes d'essais
 
 ## Liste et stocks des fournitures jugées critiques et liste des fournisseurs acceptables, relatifs aux essais accrédités
+
+Essai | Fourniture critique | stock | fournisseur acceptable
+-- | -- | -- | --
+NF EN 12390-3 | Aucune | Sans objet | Sans objet
+XP P 18-462 | Solution AgNO3 à 0.1 mol/l de qualité analytique | 1 litre livré le jj/mm/aaaa utilisable jusqu'au jj/mm/aaaa | CPIL
+
+# CONCLUSION de la direction sur l'efficacité du système qualité
