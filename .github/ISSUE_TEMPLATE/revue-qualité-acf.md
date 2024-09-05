@@ -2,7 +2,7 @@
 name: revue qualité ACF
 about: trame d'une revue qualité annuelle
 title: Revue qualité ACF 20XX
-labels: ''
+labels: 'REVUE QUALITE'
 assignees: ''
 
 ---
