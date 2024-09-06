@@ -1,8 +1,3 @@
-# RSE
-
-https://mon.cerema.fr/article/144237
-
-
 # gedoq
 
 les fichiers COFRAC du l'ACF
