@@ -89,6 +89,7 @@ Un exemplaire est archivé à l'intérieur de la feuille d'essai dans le bureau 
 ### 2ème cas: Les éprouvettes prélevées par des personnes n'appartenant pas à au groupe IOAD sont apportées ou expédiées à ACF
 
 Les dispositions sont identiques au 1er cas ci-dessus mais les étapes 1 et 2 ne sont pas sous la responsabilité de l'UT, et l’étape 6 est complétée par la vérification du diamètre moyen de chaque éprouvette.
+De plus, dans ce cas, les éprouvettes ayant été confectionnées dans des moules non-contrôlés, nous procèderons à deux mesures de diamètres orientées à 90 degrés l'une de l'autre, au niveau de chaque extrémité, avant essai. Si une de ces mesures est en dehors des tolérances de la norme NF EN 12390-1, l'éprouvette sera rejetée comme l'autorise l'article 6 de la norme NF EN 12390-3.
 
 # Qualification des agents – Maintien des compétences
 ## Qualification des agents
