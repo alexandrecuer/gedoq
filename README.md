@@ -4,11 +4,10 @@ les fichiers COFRAC du l'ACF
 
 ## généralités
 
-Responsable Qualité : Alexandre CUER 
-
-unité | béton durçi
+fonction | nom
 ---|--
-chef UT | Bruno BOULET
+Correspondant Qualité | Alexandre CUER 
+Responsable de domaine technique béton durçi | Bruno BOULET
 
 [ACF - Annexe spécifique COFRAC](ACF.P.001_annexe_specifique_COFRAC.md)
 
