@@ -13,7 +13,9 @@ Responsable de domaine technique béton durçi | Bruno BOULET
 
 # suivi des documents cofrac opposables
 
-https://alexandrecuer.github.io/gedoq/cofrac.xml
+nouveau suivi national réalisé sous Box : https://cerema.app.box.com/file/2035119678429
+
+ancien suivi (obsolète) : https://alexandrecuer.github.io/gedoq/cofrac.xml
 
 [site efolio du cofrac](https://efolio.cofrac.fr/)
 
