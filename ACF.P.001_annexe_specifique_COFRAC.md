@@ -62,7 +62,7 @@ Essais sur le béton hydraulique et ses constituants
 
 https://cerema.app.box.com/file/2045108857849
 
-Correspondant matériel : Bruno BOULET
+Chargé de suivi de matériel : Bruno BOULET
 
 ## Dispositions d’habilitation des signataires de l’UT béton durçi : 
 
