@@ -11,7 +11,9 @@ Responsable de domaine technique béton durçi | Bruno BOULET
 
 [ACF - Annexe spécifique COFRAC](ACF.P.001_annexe_specifique_COFRAC.md)
 
-# suivi des documents cofrac opposables
+# suivi des documents en vigueur
+
+(dont les documenst cofrac opposables)
 
 nouveau suivi national réalisé sous Box : https://cerema.app.box.com/file/2035119678429
 
