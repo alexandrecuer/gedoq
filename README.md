@@ -31,7 +31,9 @@ ancien suivi (obsolète) : https://alexandrecuer.github.io/gedoq/cofrac.xml
 
 [plan d'action ACF](https://cerema.app.box.com/folder/145283685567)
 
-[tableau des qualifications](https://cerema.app.box.com/folder/128105370024)
+[tableau des qualifications](https://cerema.app.box.com/folder/127826977056)
+
+[modèle de dossier de qualification et d'habilitation](https://cerema.app.box.com/file/1500012923236)
 
 [plannings métrologiques](https://cerema.app.box.com/folder/128105370024)
 
