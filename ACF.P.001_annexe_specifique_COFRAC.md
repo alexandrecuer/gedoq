@@ -60,19 +60,7 @@ Essais sur le béton hydraulique et ses constituants
 
 # Liste des agents qualifiés par essais
 
-Ex domaine | Essai | B BOULET | M.CIPIERE | C DOMAS 
---|--|--|--|--
-3 | NF EN 12390-3 |RE<br>CE<br>SI | CE |CE 
-3 | XP P 18-462 | RE<br>CE<br>SI | CE |
-
-
-RE : responsable d’essais
-
-CE : chargé d’essais
-
-SI : signataire
-
-(s) suppléant
+https://cerema.app.box.com/file/2045108857849
 
 Correspondant matériel : Bruno BOULET
 
